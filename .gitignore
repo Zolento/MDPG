@@ -1,0 +1,11 @@
+*.pth
+*.ckpt
+*.npy
+*.txt
+*.pyc
+*.pyd
+*.jpg
+*.png
+/__pycache__/
+./utils/recon/
+./models/saved
